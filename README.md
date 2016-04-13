@@ -1,6 +1,6 @@
 # Swank-Helper
 swank-helper is just helper library for ClozureCL(a.k.a ccl).
-It's only support to ccl
+It's only support to ccl.
 
 ## Why?
 currently, slime/swank support communicate style `:spawn` on ccl.
